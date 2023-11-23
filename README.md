@@ -1,9 +1,9 @@
 # 2048
 cloned this from https://github.com/gabrielecirulli/2048 directory to dockerize and put in aws elastic beanstalk to understand the working of it. 
 
+Dockerizes to a container
 
-
-Many thanks to [rayhaanj](https://github.com/rayhaanj), [Mechazawa](https://github.com/Mechazawa), [grant](https://github.com/grant), [remram44](https://github.com/remram44) and [ghoullier](https://github.com/ghoullier) for the many other good contributions.
+used AWS beanstalk for deployment
 
 ### Screenshot
 
